@@ -1,0 +1,39 @@
+.footer-bg {
+  background-color: #461773;
+}
+
+.logo-size {
+  height: 50px;
+}
+
+.text-color {
+  color: rgb(218, 218, 218);
+  font-size: 12px;
+  margin-top: 15px;
+}
+
+.title-color {
+  color: white;
+}
+
+.search {
+  margin-top: 30px;
+}
+
+.search-btn {
+  display: block;
+  background-color: #feda00;
+  color: white;
+  font-size: 15px;
+  padding: 8px 20px;
+  margin-top: 10px;
+  border-radius: 15px 0px 15px 0px;
+}
+
+.search-input {
+  background-color: #461773;
+  font-size: 15px;
+  border-top: 0px;
+  border-right: 0px;
+  border-left: 0px;
+}
