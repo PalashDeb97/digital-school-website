@@ -1,17 +1,17 @@
-# Online Programming Training Center
+# Online Programming learning
 
-This project has been done with React  [Online Programming Training Center](https://vigilant-tereshkova-965a20.netlify.app/).
+This project has been done with React  [online learning](https://happy-mirzakhani-39b0ab.netlify.app/).
 
 ##
 
 
 ### `What website is this?`
 
-This website lists the best web design teachers in Bangladesh .
+With this website you can take online training.
 
 ### `What can be done with this website`
 
-This website has a list of some of the best teachers in Bangladesh. If you wish, you can take some of the best teachers from here to your training center.
+On this website you can do various courses online.
 
 ### `How the website was created`
 
